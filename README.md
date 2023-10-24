@@ -6,7 +6,7 @@ In beta versions of Minecraft, mobs would jitter around on servers because the c
 First, pick a zip for your respective version. Then drag the class file inside the zip into the version jar and delete META-INF if you haven't already. If you are using MultiMC or PrismLauncher, you can use "Add to Minecraft.jar". It's as simple as that!
 
 ## Before
-<video src="before.mp4" controls title="Before" width=427></video>
+https://github.com/BlueStaggo/MCMPJitterFix/assets/71090710/3354e707-f49c-45f5-b51e-516ab40915ec
 
 ## After
-<video src="after.mp4" controls title="After" width=427></video>
+https://github.com/BlueStaggo/MCMPJitterFix/assets/71090710/fb784805-ac97-4be9-a4a5-5ef86dea4baf
