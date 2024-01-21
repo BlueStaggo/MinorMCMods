@@ -3,6 +3,7 @@
 This is a collection of mods for a wide range of versions that make minor tweaks, usually limited to one class edit.
 
 Here are the available mods:
+- [Smooth Beta Base Edit](./misc/smoothbeta.md)
 - [Multiplayer Mob Jitter Fix](./mpjf/)
 - [Multiplayer IP Hider](./mpih/)
 
